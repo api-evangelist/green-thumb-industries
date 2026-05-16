@@ -7,11 +7,45 @@ tags:
   - Cannabis
   - Retail
   - Consumer Products
+  - CPG
 description: 'A leading U.S. cannabis consumer packaged goods company operating a nationwide portfolio of retail dispensaries under the RISE brand and a collection of cannabis brands. Operates manufacturing facilities and retail locations across multiple states.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
+x-no-public-api: true
+x-no-public-api-reason: >-
+  Green Thumb Industries does not publish a public developer portal, REST API,
+  OpenAPI specs, or partner API documentation. GTI is a multi-state cannabis
+  operator (RISE Dispensaries, Beboe, Dogwalkers, Good Green, Incredibles,
+  RYTHM, Dr. Solomon's) and integrations with its retail and supply-chain
+  systems (POS, e-commerce, seed-to-sale compliance) are arranged through
+  vendor partnerships rather than via a self-service API.
 common:
   - type: Website
     url: https://www.gtigrows.com/
+  - type: Retail
+    url: https://www.risecannabis.com/
+  - type: InvestorRelations
+    url: https://www.gtigrows.com/investors
+  - type: News
+    url: https://www.gtigrows.com/news-releases
+  - type: AboutUs
+    url: https://www.gtigrows.com/about
+  - type: Careers
+    url: https://www.gtigrows.com/careers
+  - type: ContactUs
+    url: https://www.gtigrows.com/contact
+  - type: PrivacyPolicy
+    url: https://www.gtigrows.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.gtigrows.com/terms-of-use
+brands:
+  - name: RISE Dispensaries
+    url: https://www.risecannabis.com/
+  - name: RYTHM
+  - name: Dogwalkers
+  - name: Good Green
+  - name: Incredibles
+  - name: Beboe
+  - name: Dr. Solomon's
