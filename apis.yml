@@ -22,6 +22,8 @@ x-no-public-api-reason: >-
   systems (POS, e-commerce, seed-to-sale compliance) are arranged through
   vendor partnerships rather than via a self-service API.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/gtigrows
   - type: Website
     url: https://www.gtigrows.com/
   - type: Retail
