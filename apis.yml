@@ -2,7 +2,7 @@ aid: green-thumb-industries
 url: https://raw.githubusercontent.com/api-evangelist/green-thumb-industries/refs/heads/main/apis.yml
 name: Green Thumb Industries
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Cannabis
   - Retail
