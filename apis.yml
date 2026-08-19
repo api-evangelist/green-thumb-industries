@@ -22,7 +22,7 @@ tags:
 description: 'A leading U.S. cannabis consumer packaged goods company operating a nationwide portfolio of retail dispensaries under the RISE brand and a collection of cannabis brands. Operates manufacturing facilities and retail locations across multiple states.'
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 x-no-public-api: true
 x-no-public-api-reason: >-
